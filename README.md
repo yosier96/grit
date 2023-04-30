@@ -1,1 +1,1 @@
-fix non-coco val
+Model typehints Docker fix (#8306)
