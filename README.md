@@ -1,1 +1,1 @@
-Model typehints Docker fix (#8306)
+RTDETRDetectionModel TorchScript, ONNX Predict and Val support (#8818)
