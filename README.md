@@ -1,1 +1,1 @@
-Add distance calculation feature in vision-eye (#8616)
+Docs updates: Add Explorer to tab, YOLOv5 in Guides and Usage in Quickstart (#7438)
