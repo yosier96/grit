@@ -1,1 +1,1 @@
-Add Non-Maximum Suppression (NMS) inplace flag (#8368)
+ultralytics 8.1.26 LoadImagesAndVideos batched inference (#8817)
