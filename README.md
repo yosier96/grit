@@ -1,1 +1,1 @@
-Update IoU capitalization (#8604)
+Batch inference fixes (#8854)
