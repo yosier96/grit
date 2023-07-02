@@ -1,1 +1,1 @@
-Add TorchScript Docs Integrations Page (#8501)
+Fix docker.yaml double-quote version bug (#7452)
