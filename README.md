@@ -1,1 +1,1 @@
-Use pathlib in DOTA ops (#7552)
+Merge pull request #22 from SkalskiP/patch-1
