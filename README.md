@@ -1,1 +1,1 @@
-Dockerfile-jetson pyproject.toml OpenCV fix (#7214)
+Adds toggle displaying labels in GUI and verbose log on start (#7804)
