@@ -1,1 +1,1 @@
-Fix device counting method to account for double-digit device IDs (#8502)
+Fix IS_PYTHON_3_12 bug (#9258)
