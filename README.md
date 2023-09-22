@@ -1,1 +1,1 @@
-Optimize function calls to method calls (#8507)
+Add Ultralytics HUB Cloud Training banner to Docs (#8656)
