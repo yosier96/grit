@@ -1,1 +1,1 @@
-ultralytics 8.1.4 RTDETR TensorBoard graph visualization fix (#7725)
+Fix names bug when exporting YOLOv8-World to ONNX (#8941)
