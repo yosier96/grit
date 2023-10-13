@@ -1,1 +1,1 @@
-Fix device counting method to account for double-digit device IDs (#8502)
+Update H1 in Explorer API docs (#7813)
