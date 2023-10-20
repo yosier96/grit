@@ -1,1 +1,1 @@
-Update H1 in Explorer API docs (#7813)
+Docs updates: Add Explorer to tab, YOLOv5 in Guides and Usage in Quickstart (#7438)
