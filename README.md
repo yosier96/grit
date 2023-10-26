@@ -1,1 +1,1 @@
-Add dota8.yaml and O tests (#7394)
+ultralytics 8.0.236 dataset semantic & SQL search API (#7136)
