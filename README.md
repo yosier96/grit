@@ -1,1 +1,1 @@
-ultralytics 8.1.34 Inference API robust imgsz checks (#9274)
+ultralytics 8.1.4 RTDETR TensorBoard graph visualization fix (#7725)
