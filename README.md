@@ -1,1 +1,1 @@
-Update Twitter icon in Docs (#7711)
+Allow Annotator PIL.Image inputs (#8397)
