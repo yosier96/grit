@@ -1,1 +1,1 @@
-Retry once for Docker CI failures (#8164)
+Add type hinting to explorer.py (#7388)
