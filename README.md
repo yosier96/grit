@@ -1,1 +1,1 @@
-fix yolo classify model loading error (#9196)
+Update format.yml to pull_request_target (#7460)
