@@ -1,1 +1,1 @@
-Add speed_estimation and distance_calculation in ultralytics solutions (#7325)
+Add Ultralytics HUB Cloud Training banner to Docs (#8656)
