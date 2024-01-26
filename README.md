@@ -1,1 +1,1 @@
-Fix docs H1 tags (#7182)
+Add speed_estimation and distance_calculation in ultralytics solutions (#7325)
