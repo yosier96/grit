@@ -1,1 +1,1 @@
-Fix OBB xywh-angle concatenation bug (#7404)
+Fixed RTDETR GFLOPs bug (#7309)
