@@ -1,1 +1,1 @@
-Segment TensorRT batch=3 fix (#7952)
+RTDETRDetectionModel TorchScript, ONNX Predict and Val support (#8818)
