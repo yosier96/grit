@@ -1,1 +1,1 @@
-Add model.eval() in TensorBoad graph visualization to avoid BN stats changes (#8629)
+ultralytics 8.0.239 Ultralytics Actions and hub-sdk adoption (#7431)
