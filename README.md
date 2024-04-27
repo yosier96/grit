@@ -1,1 +1,1 @@
-Improve Docs arguments tables (#8415)
+Add Weights & Biases Docs integrations page (#7199)
