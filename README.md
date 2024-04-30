@@ -1,1 +1,1 @@
-Update HTTP to HTTPS (#7548)
+Segment TensorRT batch=3 fix (#7952)
