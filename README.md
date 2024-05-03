@@ -1,1 +1,1 @@
-Fix TFLite INT8 for OBB (#7989)
+Allow Annotator PIL.Image inputs (#8397)
