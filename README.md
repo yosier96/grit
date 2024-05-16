@@ -1,1 +1,1 @@
-Update docs building code (#7601)
+Add Neural Magic Docs integrations page (#7234)
