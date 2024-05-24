@@ -1,1 +1,1 @@
-ultralytics 8.1.27 batched tracking fixes (#8842)
+ultralytics 8.1.25 OpenVINO LATENCY and THROUGHPUT modes (#8058)
