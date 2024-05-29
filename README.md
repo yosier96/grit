@@ -1,1 +1,1 @@
-fix resume training
+Add integrations/gradio Docs page (#7935)
