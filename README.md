@@ -1,1 +1,1 @@
-Merge pull request #22 from SkalskiP/patch-1
+Update pyproject.toml [tool.pytest.ini_options] (#9259)
