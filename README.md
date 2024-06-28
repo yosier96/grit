@@ -1,1 +1,1 @@
-Update CI.md with CI links (#8786)
+Fix docker.yaml double-quote version bug (#7452)
