@@ -1,1 +1,1 @@
-Tracker: clean up GMC (#8003)
+Batch inference fixes (#8854)
