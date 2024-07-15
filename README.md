@@ -1,1 +1,1 @@
-Add KaTeX support + updates to YOLOv9 model page (#8531)
+Add new YOLOv8 OBB model metrics (#7379)
