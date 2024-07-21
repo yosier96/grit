@@ -1,1 +1,1 @@
-Add new YOLOv8 OBB model metrics (#7379)
+OpenVino 2024.0.0 (#8726)
