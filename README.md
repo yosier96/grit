@@ -1,1 +1,1 @@
-Clean up unused imgsz (#7771)
+ultralytics 8.1.27 batched tracking fixes (#8842)
