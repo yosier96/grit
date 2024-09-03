@@ -1,1 +1,1 @@
-Improve Coral Edge TPU guide (#8160)
+Capitalize OBB acronym (#7383)
