@@ -1,1 +1,1 @@
-Update HTTP to HTTPS (#7548)
+ultralytics 8.1.18 add cmake for building onnxsim on aarch64 (#8395)
