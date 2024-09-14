@@ -1,1 +1,1 @@
-ultralytics 8.0.229 add model.embed() method (#7098)
+Add line counting and circular heatmaps in Ultralytics Solutions (#7113)
