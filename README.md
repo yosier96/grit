@@ -1,1 +1,1 @@
-Fix device counting method to account for double-digit device IDs (#8502)
+Integrate OpenVINO CUMULATIVE_THROUGHPUT mode batched inference (#8834)
