@@ -1,1 +1,1 @@
-Add missing single-line docstrings (#8362)
+Add new YOLOv8 OBB model metrics (#7379)
