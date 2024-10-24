@@ -1,1 +1,1 @@
-fix print val map
+Add C++ Classify inference example (#6868)
