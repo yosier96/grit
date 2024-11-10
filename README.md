@@ -1,1 +1,1 @@
-Docs partial mdformat improvements (#7378)
+Add domain checks to CI docs page (#8714)
