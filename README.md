@@ -1,1 +1,1 @@
-OBB: update metrics (#7593)
+ultralytics 8.0.229 add model.embed() method (#7098)
