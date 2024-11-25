@@ -1,1 +1,1 @@
-More robust PNNX downloads (#8866)
+Add line counting and circular heatmaps in Ultralytics Solutions (#7113)
